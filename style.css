@@ -1,0 +1,28 @@
+body{
+    background-color: #f3f1ff;
+}
+.top-player{
+    margin-top: 20px;
+}
+.top-blog{
+    margin-top: 20px;
+}
+.navbar img
+{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+.main-player{
+    background-color: #ffffff;
+}
+.horiline{
+    border: 1px solid #878b87;
+    width: 80%;
+}
+.img-bg{
+    height: 100px;
+    width: auto;
+}
